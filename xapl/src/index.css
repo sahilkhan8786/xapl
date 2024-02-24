@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header ul li {
+    @apply cursor-pointer
+}
+
+ul {
+    @apply p-2
+}
+
+h1 {
+    @apply px-2
+}
+
+p {
+    @apply px-2
+}
